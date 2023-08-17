@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"Rustore Mobile stands as a testament to the seamless fusion of elegance and performance in the world of smartphones","photo":"https://iili.io/HDbX0DG.webp"},
+  {"title":"title2 ser","desc":"With its striking design, cutting-edge technology, and user-centric features, Rustore Mobile has managed to carve a distinct niche in the highly competitive mobile market.","photo":"https://iili.io/HDbXGV4.webp"},
+  {"title":"title3 ser","desc":"first impression of the Rustore Mobile is its impeccable design. A harmonious blend of premium materials and sleek contours creates an aesthetic that is both modern and timeless","photo":"https://iili.io/HDbXExf.webp"},
+  {"title":"title4 ser","desc":"The device's slim profile and carefully curated color options cater to a wide range of personal styles, ensuring that it effortlessly complements any individual's taste.","photo":"https://iili.io/HDbXlNs.webp"},
+  {"title":"title5 ser","desc":"The centerpiece of Rustore Mobile is its expansive display. Utilizing the latest AMOLED technology, the screen delivers vibrant colors, deep blacks, and impressive clarity. Whether you're watching high-definition videos","photo":"https://iili.io/HDbXMil.webp"},
+  {"title":"title6 ser","desc":"browsing through photos, or enjoying your favorite apps, the Rustore Mobile's display provides an immersive visual experience like no other.","photo":"https://iili.io/HDbXWf2.webp"},
+  {"title":"title7 ser","desc":"Rustore Mobile excels in capturing life's moments with its advanced camera system","photo":"https://iili.io/HDbXXlS.webp"},
+  {"title":"title8 ser","desc":"The high-resolution primary sensor, coupled with intelligent image processing algorithms, produces stunning, true-to-life photos even in challenging lighting conditions","photo":"https://iili.io/HDbXhU7.webp"}
    ]
  
 }
